@@ -2,11 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 /**
- *  * main - assign a random number to int n
- *   * each time it executes and prints it
- *    *
- *     * Return: Always 0 (Success)
- *      */
+ * main - assign a random number to int n
+ *  each time it executes and prints it
+ *    Return: Always 0 (Success)
+ */
 int main(void)
 {
 		int n;
