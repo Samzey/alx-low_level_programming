@@ -10,6 +10,7 @@ int main(void)
 	int capital_a = 65;
 	int small_z = 123;
 	int capital_z = 91;
+
 	while (small_a < small_z)
 	{
 		putchar(small_a);
